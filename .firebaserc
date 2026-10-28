@@ -1,0 +1,15 @@
+{
+  "projects": {
+    "default": "click-31f21"
+  },
+  "targets": {
+    "click-31f21": {
+      "hosting": {
+        "topstatii": [
+          "topstatii"
+        ]
+      }
+    }
+  },
+  "etags": {}
+}
